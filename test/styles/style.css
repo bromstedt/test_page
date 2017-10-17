@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  font-family: placeholder: 'Ubuntu Condensed', sans-serif;
+  font-family: 'Ubuntu Condensed', sans-serif;
 }
 
 h1 {
@@ -10,7 +10,7 @@ h1 {
 
 p, li {
   font-size: 16px;
-  line-height: 2;
+  line-height: 1;
   letter-spacing: 1px;
 }
 
@@ -30,10 +30,11 @@ h1 {
   margin: 0;
   padding: 20px 0;
   color: #000000
-  text-shadow: 3px 3px 1px black;
 }
 
 img {
+  width: 319px;
+  height: 158px;
   display: block;
   margin: 0 auto;
   border: 2px solid black;
